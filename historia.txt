@@ -1,0 +1,5 @@
+esta es la historia de curso de git
+
+aprendiendo Git desde consola
+
+aprendiendo con platzi.

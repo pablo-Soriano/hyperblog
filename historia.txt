@@ -1,5 +1,6 @@
 esta es la historia de curso de git
 
-aprendiendo Git desde consola
+aprendiendo Git desde consola,
+hemos agregado cambio para mostrar cambios en git.
 
 aprendiendo con platzi.

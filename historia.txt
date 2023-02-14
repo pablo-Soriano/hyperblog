@@ -4,3 +4,5 @@ aprendiendo Git desde consola,
 hemos agregado cambio para mostrar cambios en git.
 
 aprendiendo con platzi.
+
+Estamos probando cambios con blogspot.html

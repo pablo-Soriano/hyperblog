@@ -1,8 +1,5 @@
 esta es la historia de curso de git
 
-aprendiendo Git desde consola,
-hemos agregado cambio para mostrar cambios en git.
+aprendiendo Git desde consola
 
-aprendiendo con platzi.
-
-Estamos probando cambios con blogspot.html y estilos css
+aprendiendo comandos de git para retroceder a la primeras versiones.

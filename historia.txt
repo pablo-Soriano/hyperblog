@@ -1,5 +1,5 @@
 esta es la historia de curso de git
 
 aprendiendo Git desde consola
-
+ahora soporte.como hace un cambio.
 aprendiendo comandos de git para retroceder a la primeras versiones.
